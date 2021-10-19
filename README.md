@@ -2,6 +2,8 @@
 
 ### This project gives you random yet useful advice just by clicking of a button.
 
+## View Live Demo here: https://advice-generator-peach.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Used APIs and packages
