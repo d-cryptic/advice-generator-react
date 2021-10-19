@@ -4,6 +4,9 @@
 
 ## View Live Demo here: https://advice-generator-peach.vercel.app/
 
+## The Working Demo
+(./advice-app.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Used APIs and packages
