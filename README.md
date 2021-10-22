@@ -17,3 +17,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 3. CSS for styling
 4. Unsplash for background image
+
+
+- Feel free to add more features by raising an issue.
+- Give a star to the project
+- Follow me on github [Barun Debnath](https://github.com/d-cryptic)
+- Follow me on twitter [Barun Debnath](https://twitter.com/dcryptic_)
